@@ -1,0 +1,14 @@
+Funcionario: Raquel
+Salario Bruto: R$9000.0
+Desconto INSS: R$751,98
+Quantidade de dependentes: 1	Valor abatido no IR: R$189.59
+Desconto de IR: R$1.346,71
+Salario liquido: R$6.901,31
+
+Funcionario: Maria dos Santos
+Salario Bruto: R$3500.0
+Desconto INSS: R$341,28
+Quantidade de dependentes: 2	Valor abatido no IR: R$379.18
+Desconto de IR: R$65,67
+Salario liquido: R$3.093,05
+
